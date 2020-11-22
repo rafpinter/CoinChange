@@ -9,7 +9,7 @@ while True:
     money = float(input("Cash owed: ")) * 100
     if money > 0:
         break
-
+15.
 soma = 0
 
 # Iterate until 
