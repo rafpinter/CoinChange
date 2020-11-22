@@ -1,6 +1,8 @@
 """
 
-Tool to find the minium number of coins that you must have to give change.
+CoinChange
+
+Tool to find the minimum number of coins that you must have to give change.
 
 """
 
