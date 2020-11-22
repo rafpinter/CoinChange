@@ -22,4 +22,4 @@ for j in [25, 10, 5, 1]:
     if subtotal != 0:
         print(f"{j}¢:", subtotal)
 
-print("Minimum coin number:", soma)
+print("Minimum coin number:", soma) 
